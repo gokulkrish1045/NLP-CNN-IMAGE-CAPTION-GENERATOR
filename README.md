@@ -1,14 +1,10 @@
-Here's a professional `README.md` for your project with some added emojis to make it visually appealing:
-
----
-
 # 🖼️ Image Caption Generator using CNN & LSTM
 
 Welcome to the **Image Caption Generator** repository! This project demonstrates how to generate captions for images using **Convolutional Neural Networks (CNN)** and **Long Short-Term Memory (LSTM)** models, combining computer vision and natural language processing techniques.
 
 ## 🌟 Project Overview
 
-In this project, we build an **Image Caption Generator** by leveraging the power of deep learning techniques. Using a CNN to extract features from images and an LSTM network to generate descriptive captions, we combine the strengths of both models for an end-to-end solution. The model is trained and evaluated using the **Flickr dataset**, which provides a vast collection of images and corresponding textual descriptions.
+In this project, I build an **Image Caption Generator** by leveraging the power of deep learning techniques. Using a CNN to extract features from images and an LSTM network to generate descriptive captions, we combine the strengths of both models for an end-to-end solution. The model is trained and evaluated using the **Flickr dataset**, which provides a vast collection of images and corresponding textual descriptions.
 
 ## 🚀 Key Features
 
@@ -71,7 +67,7 @@ The model's performance is evaluated using **BLEU score** and other NLP evaluati
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License .
 
 ## 🙌 Acknowledgments
 
@@ -80,4 +76,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Feel free to customize the repository with your personal details and additional instructions! 🚀
